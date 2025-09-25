@@ -1,4 +1,3 @@
-# food-del
 # Food-Del 🍔
 
 Food-Del is a **React-based food delivery application** that allows users to browse, select, and order food online. The app features a **responsive design**, a **registration/login system**, and **menu selection** for a smooth user experience.
